@@ -2,7 +2,7 @@
 Python learning project for using the breadth first search algorithm and navigate through a maze with it
 This is a command line application in which i take a 2 dimensional array like this one:
 
-maze = [
+maze = [<br>
     ["#", "#", "#", "#", "#", "#", "O", "#", "#"],<br>
     ["#", " ", " ", " ", " ", " ", " ", " ", "#"],<br>
     ["#", " ", "#", "#", "#", "#", "#", " ", "#"],<br>
